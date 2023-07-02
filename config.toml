@@ -1,0 +1,8 @@
+baseURL = 'https://slicestar.org/'
+languageCode = 'en-us'
+title = 'slicestar'
+theme = 'gokarna'
+
+[params]
+avatarURL = "/images/logo.png"
+footer = "slicestar"
